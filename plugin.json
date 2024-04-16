@@ -1,0 +1,19 @@
+{
+  "Stripe": {
+    "repo": "https://github.com/Enielka/Stripe-plugin",
+    "author": "Enielka",
+    "category": "Subscription Management",
+    "description": "This plugin allows you to give access to some of your services through a subscription via Stripe.",
+    "icon": "https://silicondales.com/wp-content/uploads/2018/08/stripe.jpg",
+    "contact": "",
+    "website": "https://github.com/Enielka/Stripe-plugin",
+    "version": "1.0.0",
+    "minimum_organizr_version": "2.1.1690",
+    "release_date": "2024-04-01",
+    "last_updated": "2024-04-15",
+    "github_folder": "root",
+    "project_folder": "stripe",
+    "license": "personal,business",
+    "images": {
+    }
+  }
